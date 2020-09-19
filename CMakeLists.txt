@@ -1,0 +1,17 @@
+cmake_minimum_required(VERSION 3.17)
+project(untitled)
+
+set(CMAKE_CXX_STANDARD 14)
+
+#add_executable(untitled variable_array.cpp)
+#add_executable(untitled stringstream.cpp)
+#add_executable(untitled strings.cpp )
+#add_executable(untitled struct.cpp )
+#add_executable(untitled classes.cpp)
+#add_executable(untitled classesandobjects.cpp )
+#add_executable(untitled vector_sort.cpp multilevel_inheritance.cpp)
+#add_executable(untitled magicspells.cpp)
+#add_executable(untitled multilevel_inheritance.cpp)
+#add_executable(untitled vector_erase.cpp\)
+#add_executable(untitled operator_overloading.cpp)
+add_executable(untitled inheritedcode.cpp)
