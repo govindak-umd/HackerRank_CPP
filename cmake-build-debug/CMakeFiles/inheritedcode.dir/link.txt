@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/inheritedcode.dir/inheritedcode.cpp.o  -o inheritedcode 

@@ -1,8 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/untitled.dir/inheritedcode.cpp.obj"
-  "libuntitled.dll.a"
-  "untitled.exe"
-  "untitled.exe.manifest"
+  "CMakeFiles/untitled.dir/inheritedcode.cpp.o"
+  "untitled"
   "untitled.pdb"
 )
 

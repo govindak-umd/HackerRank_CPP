@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/govind/Desktop/HackerRank_CPP/HackerRank_CPP/classes.cpp
+iostream
+-
+sstream
+-
+string
+-
+

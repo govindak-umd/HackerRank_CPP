@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/govin/CLionProjects/HackerRank_Testing/inheritedcode.cpp" "C:/Users/govin/CLionProjects/HackerRank_Testing/cmake-build-debug/CMakeFiles/untitled.dir/inheritedcode.cpp.obj"
+  "/home/govind/Desktop/HackerRank_CPP/HackerRank_CPP/inheritedcode.cpp" "/home/govind/Desktop/HackerRank_CPP/HackerRank_CPP/cmake-build-debug/CMakeFiles/untitled.dir/inheritedcode.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

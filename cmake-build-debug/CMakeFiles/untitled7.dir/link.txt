@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/untitled7.dir/classesandobjects.cpp.o  -o untitled7 
