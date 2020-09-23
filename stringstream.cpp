@@ -2,7 +2,7 @@
 #include <vector>
 #include <iostream>
 #include <string>
-using namespace std;
+using namespace std;strings.cpp
 
 vector<int> parseInts(string str ) {
     stringstream ss(str);

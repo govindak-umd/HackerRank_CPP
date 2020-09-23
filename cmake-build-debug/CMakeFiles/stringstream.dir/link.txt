@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/stringstream.dir/stringstream.cpp.o CMakeFiles/stringstream.dir/strings.cpp.o  -o stringstream 

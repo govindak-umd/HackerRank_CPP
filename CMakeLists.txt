@@ -3,6 +3,7 @@ project(untitled)
 
 set(CMAKE_CXX_STANDARD 14)
 
+<<<<<<< HEAD
 #add_executable(untitled variable_array.cpp)
 #add_executable(untitled stringstream.cpp)
 #add_executable(untitled strings.cpp )
@@ -17,3 +18,17 @@ add_executable(untitled operator_overloading.cpp)
 #add_executable(untitledne  print_pretty.cpp)
 #add_executable(untitled cpp_class_templates.cpp)
 #add_executable(untitled inheritedcode.cpp)
+=======
+#add_executable(stringstream stringstream.cpp)
+add_executable(rectangle_area rectangle_area.cpp)
+#add_executable(strings strings.cpp )
+#add_executable(struct struct.cpp )
+#add_executable(classes classes.cpp)
+#add_executable(classesandobjects classesandobjects.cpp )
+#add_executable(vector_sort vector_sort.cpp multilevel_inheritance.cpp)
+#add_executable(magicspells magicspells.cpp)
+#add_executable(multilevel_inheritance multilevel_inheritance.cpp)
+#add_executable(vector_erase vector_erase.cpp)
+#add_executable(operator_overloading operator_overloading.cpp)
+#add_executable(inheritedcode inheritedcode.cpp)
+>>>>>>> 0b47e886e228e9156f69f96b134213f469ec3d30

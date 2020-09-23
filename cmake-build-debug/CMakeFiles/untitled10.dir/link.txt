@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/untitled10.dir/strings.cpp.o  -o untitled10 
