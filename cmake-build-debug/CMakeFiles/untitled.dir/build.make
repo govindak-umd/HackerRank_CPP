@@ -76,27 +76,27 @@ include CMakeFiles/untitled.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/untitled.dir/flags.make
 
-CMakeFiles/untitled.dir/inheritedcode.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/inheritedcode.cpp.obj: ../inheritedcode.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\govin\CLionProjects\HackerRank_Testing\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled.dir/inheritedcode.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\inheritedcode.cpp.obj -c C:\Users\govin\CLionProjects\HackerRank_Testing\inheritedcode.cpp
+CMakeFiles/untitled.dir/operator_overloading.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/operator_overloading.cpp.obj: ../operator_overloading.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\govin\CLionProjects\HackerRank_Testing\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled.dir/operator_overloading.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\operator_overloading.cpp.obj -c C:\Users\govin\CLionProjects\HackerRank_Testing\operator_overloading.cpp
 
-CMakeFiles/untitled.dir/inheritedcode.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/inheritedcode.cpp.i"
-	C:\PROGRA~1\MINGW-~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\govin\CLionProjects\HackerRank_Testing\inheritedcode.cpp > CMakeFiles\untitled.dir\inheritedcode.cpp.i
+CMakeFiles/untitled.dir/operator_overloading.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/operator_overloading.cpp.i"
+	C:\PROGRA~1\MINGW-~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\govin\CLionProjects\HackerRank_Testing\operator_overloading.cpp > CMakeFiles\untitled.dir\operator_overloading.cpp.i
 
-CMakeFiles/untitled.dir/inheritedcode.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/inheritedcode.cpp.s"
-	C:\PROGRA~1\MINGW-~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\govin\CLionProjects\HackerRank_Testing\inheritedcode.cpp -o CMakeFiles\untitled.dir\inheritedcode.cpp.s
+CMakeFiles/untitled.dir/operator_overloading.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/operator_overloading.cpp.s"
+	C:\PROGRA~1\MINGW-~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\govin\CLionProjects\HackerRank_Testing\operator_overloading.cpp -o CMakeFiles\untitled.dir\operator_overloading.cpp.s
 
 # Object files for target untitled
 untitled_OBJECTS = \
-"CMakeFiles/untitled.dir/inheritedcode.cpp.obj"
+"CMakeFiles/untitled.dir/operator_overloading.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
 
-untitled.exe: CMakeFiles/untitled.dir/inheritedcode.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/operator_overloading.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp

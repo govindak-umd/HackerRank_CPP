@@ -4,7 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/govin/CLionProjects/HackerRank_Testing/operator_overloading.cpp" "C:/Users/govin/CLionProjects/HackerRank_Testing/cmake-build-debug/CMakeFiles/untitled.dir/operator_overloading.cpp.obj"
+  "C:/Users/govin/CLionProjects/HackerRank_Testing/cpp_class_templates.cpp" "C:/Users/govin/CLionProjects/HackerRank_Testing/cmake-build-debug/CMakeFiles/untitlednew.dir/cpp_class_templates.cpp.obj"
+  "C:/Users/govin/CLionProjects/HackerRank_Testing/print_pretty.cpp" "C:/Users/govin/CLionProjects/HackerRank_Testing/cmake-build-debug/CMakeFiles/untitlednew.dir/print_pretty.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

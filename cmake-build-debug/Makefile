@@ -142,32 +142,32 @@ untitled/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/build
 .PHONY : untitled/fast
 
-inheritedcode.obj: inheritedcode.cpp.obj
+operator_overloading.obj: operator_overloading.cpp.obj
 
-.PHONY : inheritedcode.obj
+.PHONY : operator_overloading.obj
 
 # target to build an object file
-inheritedcode.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/inheritedcode.cpp.obj
-.PHONY : inheritedcode.cpp.obj
+operator_overloading.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/operator_overloading.cpp.obj
+.PHONY : operator_overloading.cpp.obj
 
-inheritedcode.i: inheritedcode.cpp.i
+operator_overloading.i: operator_overloading.cpp.i
 
-.PHONY : inheritedcode.i
+.PHONY : operator_overloading.i
 
 # target to preprocess a source file
-inheritedcode.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/inheritedcode.cpp.i
-.PHONY : inheritedcode.cpp.i
+operator_overloading.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/operator_overloading.cpp.i
+.PHONY : operator_overloading.cpp.i
 
-inheritedcode.s: inheritedcode.cpp.s
+operator_overloading.s: operator_overloading.cpp.s
 
-.PHONY : inheritedcode.s
+.PHONY : operator_overloading.s
 
 # target to generate assembly for a file
-inheritedcode.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/inheritedcode.cpp.s
-.PHONY : inheritedcode.cpp.s
+operator_overloading.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/operator_overloading.cpp.s
+.PHONY : operator_overloading.cpp.s
 
 # Help Target
 help:
@@ -178,9 +178,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... untitled
-	@echo ... inheritedcode.obj
-	@echo ... inheritedcode.i
-	@echo ... inheritedcode.s
+	@echo ... operator_overloading.obj
+	@echo ... operator_overloading.i
+	@echo ... operator_overloading.s
 .PHONY : help
 
 

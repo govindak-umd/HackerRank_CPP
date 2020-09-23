@@ -6,7 +6,15 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/govin/CLionProjects/HackerRank_Testing/operator_overloading.cpp
+C:/Users/govin/CLionProjects/HackerRank_Testing/print_pretty.cpp
 iostream
+-
+iomanip
+-
+typeinfo
+-
+string
+-
+cmath
 -
 
