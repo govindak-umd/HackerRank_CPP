@@ -4,11 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-<<<<<<< HEAD
-  "C:/Users/govin/CLionProjects/HackerRank_Testing/operator_overloading.cpp" "C:/Users/govin/CLionProjects/HackerRank_Testing/cmake-build-debug/CMakeFiles/untitled.dir/operator_overloading.cpp.obj"
-=======
-  "/home/govind/Desktop/HackerRank_CPP/HackerRank_CPP/inheritedcode.cpp" "/home/govind/Desktop/HackerRank_CPP/HackerRank_CPP/cmake-build-debug/CMakeFiles/untitled.dir/inheritedcode.cpp.o"
->>>>>>> 0b47e886e228e9156f69f96b134213f469ec3d30
+  "C:/Users/govin/Desktop/HackerRank_GitHub/HackerRank_CPP/hotel_prices.cpp" "C:/Users/govin/Desktop/HackerRank_GitHub/HackerRank_CPP/cmake-build-debug/CMakeFiles/untitled.dir/hotel_prices.cpp.obj"
+  "C:/Users/govin/Desktop/HackerRank_GitHub/HackerRank_CPP/virtual_functions.cpp" "C:/Users/govin/Desktop/HackerRank_GitHub/HackerRank_CPP/cmake-build-debug/CMakeFiles/untitled.dir/virtual_functions.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

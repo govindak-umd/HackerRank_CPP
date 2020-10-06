@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/variable_array.dir/variable_array.cpp.o  -o variable_array 

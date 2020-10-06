@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/vector_sort.dir/vector_sort.cpp.o CMakeFiles/vector_sort.dir/multilevel_inheritance.cpp.o  -o vector_sort 

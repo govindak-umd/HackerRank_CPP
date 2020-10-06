@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/untitled11.dir/stringstream.cpp.o  -o untitled11 

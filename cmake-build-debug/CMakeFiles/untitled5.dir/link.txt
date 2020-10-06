@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/untitled5.dir/magicspells.cpp.o  -o untitled5 

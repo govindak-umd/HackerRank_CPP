@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/vector_erase.dir/vector_erase.cpp.o  -o vector_erase 

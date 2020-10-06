@@ -1,3 +1,3 @@
-/home/govind/Desktop/HackerRank_CPP/HackerRank_CPP/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/govind/Desktop/HackerRank_CPP/HackerRank_CPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/govind/Desktop/HackerRank_CPP/HackerRank_CPP/cmake-build-debug/CMakeFiles/rectangle_area.dir
+C:/Users/govin/Desktop/HackerRank_GitHub/HackerRank_CPP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/govin/Desktop/HackerRank_GitHub/HackerRank_CPP/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/govin/Desktop/HackerRank_GitHub/HackerRank_CPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir

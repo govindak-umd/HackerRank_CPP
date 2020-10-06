@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/untitled9.dir/struct.cpp.o  -o untitled9 

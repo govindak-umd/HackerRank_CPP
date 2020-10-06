@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/untitled12.dir/variable_array.cpp.o  -o untitled12 
