@@ -1,5 +1,4 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/untitled.dir/hotel_prices.cpp.obj"
   "CMakeFiles/untitled.dir/virtual_functions.cpp.obj"
   "libuntitled.dll.a"
   "untitled.exe"

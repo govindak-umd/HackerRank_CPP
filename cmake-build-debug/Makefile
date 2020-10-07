@@ -142,33 +142,6 @@ untitled/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/build
 .PHONY : untitled/fast
 
-hotel_prices.obj: hotel_prices.cpp.obj
-
-.PHONY : hotel_prices.obj
-
-# target to build an object file
-hotel_prices.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/hotel_prices.cpp.obj
-.PHONY : hotel_prices.cpp.obj
-
-hotel_prices.i: hotel_prices.cpp.i
-
-.PHONY : hotel_prices.i
-
-# target to preprocess a source file
-hotel_prices.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/hotel_prices.cpp.i
-.PHONY : hotel_prices.cpp.i
-
-hotel_prices.s: hotel_prices.cpp.s
-
-.PHONY : hotel_prices.s
-
-# target to generate assembly for a file
-hotel_prices.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/hotel_prices.cpp.s
-.PHONY : hotel_prices.cpp.s
-
 virtual_functions.obj: virtual_functions.cpp.obj
 
 .PHONY : virtual_functions.obj
@@ -205,9 +178,6 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... untitled
-	@echo ... hotel_prices.obj
-	@echo ... hotel_prices.i
-	@echo ... hotel_prices.s
 	@echo ... virtual_functions.obj
 	@echo ... virtual_functions.i
 	@echo ... virtual_functions.s

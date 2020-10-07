@@ -4,7 +4,6 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/govin/Desktop/HackerRank_GitHub/HackerRank_CPP/hotel_prices.cpp" "C:/Users/govin/Desktop/HackerRank_GitHub/HackerRank_CPP/cmake-build-debug/CMakeFiles/untitled.dir/hotel_prices.cpp.obj"
   "C:/Users/govin/Desktop/HackerRank_GitHub/HackerRank_CPP/virtual_functions.cpp" "C:/Users/govin/Desktop/HackerRank_GitHub/HackerRank_CPP/cmake-build-debug/CMakeFiles/untitled.dir/virtual_functions.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

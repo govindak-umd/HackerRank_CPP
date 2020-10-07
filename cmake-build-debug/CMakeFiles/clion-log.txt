@@ -1,11 +1,4 @@
 "C:\Program Files\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\govin\Desktop\HackerRank_GitHub\HackerRank_CPP
-CMake Error at CMakeLists.txt:20 (add_executable):
-  add_executable cannot create target "untitled" because another target with
-  the same name already exists.  The existing target is an executable created
-  in source directory
-  "C:/Users/govin/Desktop/HackerRank_GitHub/HackerRank_CPP".  See
-  documentation for policy CMP0002 for more details.
-
-
--- Configuring incomplete, errors occurred!
-See also "C:/Users/govin/Desktop/HackerRank_GitHub/HackerRank_CPP/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/govin/Desktop/HackerRank_GitHub/HackerRank_CPP/cmake-build-debug
