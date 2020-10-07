@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/untitled.dir/virtual_functions.cpp.obj"
+  "CMakeFiles/untitled.dir/accessing_inherited_functions.cpp.obj"
   "libuntitled.dll.a"
   "untitled.exe"
   "untitled.exe.manifest"

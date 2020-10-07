@@ -76,27 +76,27 @@ include CMakeFiles/untitled.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/untitled.dir/flags.make
 
-CMakeFiles/untitled.dir/virtual_functions.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/virtual_functions.cpp.obj: ../virtual_functions.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\govin\Desktop\HackerRank_GitHub\HackerRank_CPP\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled.dir/virtual_functions.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\virtual_functions.cpp.obj -c C:\Users\govin\Desktop\HackerRank_GitHub\HackerRank_CPP\virtual_functions.cpp
+CMakeFiles/untitled.dir/accessing_inherited_functions.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/accessing_inherited_functions.cpp.obj: ../accessing_inherited_functions.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\govin\Desktop\HackerRank_GitHub\HackerRank_CPP\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled.dir/accessing_inherited_functions.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\accessing_inherited_functions.cpp.obj -c C:\Users\govin\Desktop\HackerRank_GitHub\HackerRank_CPP\accessing_inherited_functions.cpp
 
-CMakeFiles/untitled.dir/virtual_functions.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/virtual_functions.cpp.i"
-	C:\PROGRA~1\MINGW-~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\govin\Desktop\HackerRank_GitHub\HackerRank_CPP\virtual_functions.cpp > CMakeFiles\untitled.dir\virtual_functions.cpp.i
+CMakeFiles/untitled.dir/accessing_inherited_functions.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/accessing_inherited_functions.cpp.i"
+	C:\PROGRA~1\MINGW-~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\govin\Desktop\HackerRank_GitHub\HackerRank_CPP\accessing_inherited_functions.cpp > CMakeFiles\untitled.dir\accessing_inherited_functions.cpp.i
 
-CMakeFiles/untitled.dir/virtual_functions.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/virtual_functions.cpp.s"
-	C:\PROGRA~1\MINGW-~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\govin\Desktop\HackerRank_GitHub\HackerRank_CPP\virtual_functions.cpp -o CMakeFiles\untitled.dir\virtual_functions.cpp.s
+CMakeFiles/untitled.dir/accessing_inherited_functions.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/accessing_inherited_functions.cpp.s"
+	C:\PROGRA~1\MINGW-~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\govin\Desktop\HackerRank_GitHub\HackerRank_CPP\accessing_inherited_functions.cpp -o CMakeFiles\untitled.dir\accessing_inherited_functions.cpp.s
 
 # Object files for target untitled
 untitled_OBJECTS = \
-"CMakeFiles/untitled.dir/virtual_functions.cpp.obj"
+"CMakeFiles/untitled.dir/accessing_inherited_functions.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
 
-untitled.exe: CMakeFiles/untitled.dir/virtual_functions.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/accessing_inherited_functions.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp

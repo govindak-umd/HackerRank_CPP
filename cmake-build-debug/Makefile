@@ -142,32 +142,32 @@ untitled/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/build
 .PHONY : untitled/fast
 
-virtual_functions.obj: virtual_functions.cpp.obj
+accessing_inherited_functions.obj: accessing_inherited_functions.cpp.obj
 
-.PHONY : virtual_functions.obj
+.PHONY : accessing_inherited_functions.obj
 
 # target to build an object file
-virtual_functions.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/virtual_functions.cpp.obj
-.PHONY : virtual_functions.cpp.obj
+accessing_inherited_functions.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/accessing_inherited_functions.cpp.obj
+.PHONY : accessing_inherited_functions.cpp.obj
 
-virtual_functions.i: virtual_functions.cpp.i
+accessing_inherited_functions.i: accessing_inherited_functions.cpp.i
 
-.PHONY : virtual_functions.i
+.PHONY : accessing_inherited_functions.i
 
 # target to preprocess a source file
-virtual_functions.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/virtual_functions.cpp.i
-.PHONY : virtual_functions.cpp.i
+accessing_inherited_functions.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/accessing_inherited_functions.cpp.i
+.PHONY : accessing_inherited_functions.cpp.i
 
-virtual_functions.s: virtual_functions.cpp.s
+accessing_inherited_functions.s: accessing_inherited_functions.cpp.s
 
-.PHONY : virtual_functions.s
+.PHONY : accessing_inherited_functions.s
 
 # target to generate assembly for a file
-virtual_functions.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/virtual_functions.cpp.s
-.PHONY : virtual_functions.cpp.s
+accessing_inherited_functions.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/accessing_inherited_functions.cpp.s
+.PHONY : accessing_inherited_functions.cpp.s
 
 # Help Target
 help:
@@ -178,9 +178,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... untitled
-	@echo ... virtual_functions.obj
-	@echo ... virtual_functions.i
-	@echo ... virtual_functions.s
+	@echo ... accessing_inherited_functions.obj
+	@echo ... accessing_inherited_functions.i
+	@echo ... accessing_inherited_functions.s
 .PHONY : help
 
 
