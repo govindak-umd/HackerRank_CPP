@@ -1,8 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/untitled.dir/operator_overloading_matrix.cpp.obj"
-  "libuntitled.dll.a"
-  "untitled.exe"
-  "untitled.exe.manifest"
+  "CMakeFiles/untitled.dir/pre_processor.cpp.o"
+  "untitled"
   "untitled.pdb"
 )
 
