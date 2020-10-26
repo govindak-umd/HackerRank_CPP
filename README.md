@@ -6,6 +6,5 @@ Submissions for my HackerRank Interview Preparation Kit
 
 [You can also visit my Repository for my Solutions for the Python HackerRank Challenges](https://github.com/govindak-umd/HackerRank_Python)
 
-[You can also visit my Repository for my Solutions for the C++ HackerRank Challenges](https://github.com/govindak-umd/HackerRank_CPP)
 
 
